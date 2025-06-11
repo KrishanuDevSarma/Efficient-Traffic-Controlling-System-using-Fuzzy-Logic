@@ -1,5 +1,10 @@
 # Efficient-Traffic-Controlling-System-using-Fuzzy-Logic
 
+This project was developed as a mini project for the course **Fuzzy Logic and Neural Network** during my B.tech.
+
+### 👨‍💻 Developed By:
+- **Krishanu Dev Sarma (ECB18006)**
+
 ---
 
 ## 📌 Project Overview
